@@ -1,0 +1,1 @@
+This repository contains the software design documentation for The Gaming Room, a client seeking to expand their flagship game, "Draw It or Lose It". Originally a local Android application, the goal of this project was to design a web-based, multi-platform system capable of supporting a distributed network of players across Windows, Mac, Linux, and mobile devices.
